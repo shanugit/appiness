@@ -13,7 +13,7 @@
     "express-session": "^1.16.1",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "session-file-store": "^1.2.0"
   }
